@@ -5,3 +5,7 @@ Hi guys, this is my first attempt in building a dashbaord which could be useful 
 Also, all the data seen in the dashboard is hard-coded and does not belong to any industry.
 
 Cheers!
+
+
+![screen1]
+(Dashboard_Screenshots/fifth_screen.png)
