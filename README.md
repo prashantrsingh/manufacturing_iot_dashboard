@@ -8,4 +8,4 @@ Cheers!
 
 
 ![screen1]
-(Dashboard_Screenshots/fifth_screen.png)
+(https://github.com/prashantrsingh/manufacturing_iot_dashboard/blob/master/Dashboard_Screenshots/first_screen.png)
