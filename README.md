@@ -7,5 +7,4 @@ Also, all the data seen in the dashboard is hard-coded and does not belong to an
 Cheers!
 
 
-![screen1]
-(https://github.com/prashantrsingh/manufacturing_iot_dashboard/blob/master/Dashboard_Screenshots/first_screen.png)
+![screen1](../master/Dashboard_Screenshots/first_screen.png)
